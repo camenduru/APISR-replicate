@@ -12,7 +12,7 @@ https://github.com/Kiteretsu77/APISR
 https://arxiv.org/abs/2403.01598
 
 ### 🖼 Output
-
+![Screenshot 2024-03-19 143610](https://github.com/camenduru/APISR-replicate/assets/54370274/081e08a1-9db5-4684-9709-0b87a9e35c35)
 
 ### 🏢 Sponsor
 https://replicate.com
